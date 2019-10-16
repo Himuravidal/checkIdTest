@@ -89,6 +89,29 @@
             "Otros": "",
             "acreditacion": "0",
             "controllaboral": "1"
+        },
+        
+        {
+            "rut": "17752531-6",
+            "IdContratosPersonas": 23213,
+            "IdPersona": "15677",
+            "IdContratista": "596",
+            "contrato_id": "813",
+            "IdRol": "1",
+            "FechaInicioFaena": "2018-07-01",
+            "IdDocumento": "136921",
+            "IdEstatus": "5",
+            "IdTipoContrato": "3",
+            "FechaVencimiento": null,
+            "Renta": null,
+            "entry_by": "1",
+            "entry_by_access": "891",
+            "IdCentro": null,
+            "createdOn": "2018-08-31 19:25:48",
+            "updatedOn": "2019-10-04 14:09:12",
+            "Otros": "",
+            "acreditacion": "1",
+            "controllaboral": "1"
         }
         
     ]
